@@ -1,11 +1,8 @@
-# React-Native-Food-Delivery
+# React-Native-Food-Delivery App using nodejs
 A food delivery app built with React Native, Pusher Channels, Chatkit, and Beams.
 
 You can read the tutorial here:
 
-- [Create a food ordering app in React Native - Part 1: Making an order](http://pusher.com/tutorials/food-ordering-app-react-native-part-1)
-- [Create a food ordering app in React Native - Part 2: Adding the driver app and chat functionality](http://pusher.com/tutorials/food-ordering-app-react-native-part-2)
-- [Create a food ordering app in React Native - Part 3: Adding push notifications](http://pusher.com/tutorials/food-ordering-app-react-native-part-3)
 
 It includes the following features:
 
@@ -125,16 +122,3 @@ react-native start
 react-native run-android
 ```
 
-## Built with
-
-- [React Native](https://facebook.github.io/react-native/)
-- [Channels](https://pusher.com/channels)
-- [Chatkit](https://pusher.com/chatkit)
-- [Beams](https://pusher.com/beams)
-- [React Native Maps](https://github.com/react-native-community/react-native-maps)
-
-## Donation
-
-If this project helped you reduce time to develop, please consider buying me a cup of coffee :)
-
-<a href="https://www.buymeacoffee.com/wernancheta" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
